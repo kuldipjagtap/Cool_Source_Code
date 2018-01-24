@@ -2,5 +2,5 @@
 Test Repository
 
 Here i am exploring the GitHub. Happy learning.
-Hello User
+Hello User. Now got more idea about GitHub process
 
